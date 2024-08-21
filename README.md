@@ -4,5 +4,4 @@ This repository contains a Python implementation of a Pong AI using reinforcemen
 
 ## Features
 
-- **Reinforcement Learning**: Uses reinforcement learning algorithms to train the Pong AI.
-- **Interactive Jupyter Notebook**: Provides a hands-on approach to understanding and running the AI training and evaluation.
+- **Reinforcement Learning**: Uses reinforcement learning algorithms to train the Pong AI. Rewards given based on its performace. 
